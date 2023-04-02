@@ -1,5 +1,5 @@
-Project Name: 5G Technology in Healthcare
-Introduction:
+**Project Name: 5G Technology in Healthcare
+Introduction:**
 The fifth-generation (5G) network has brought significant advancements in the field of healthcare, revolutionizing the way healthcare is provided to patients. It offers high-speed data transfer, low latency, and improved network coverage, which have opened new avenues for healthcare providers to provide better care to patients. The conventional healthcare system requires more human intervention with healthcare devices, equipment, and patient monitoring. However, the healthcare industry is undergoing a rapid transformation from a traditional hospital and specialist-focused approach to a distributed patient-centric approach, fueled by the advancements in several technologies.
 
 This project report explores the role of 5G technology in healthcare, its key features, applications, and challenges. We also propose potential applications of 5G technology in healthcare.
@@ -9,13 +9,16 @@ This project report explores the role of 5G technology in healthcare, its key fe
 **5G-enabled Emergency Vehicle Communication System**
 This is a proposed 5G-enabled emergency vehicle communication system that allows emergency vehicles to communicate with other vehicles, traffic management systems, roadside units (RSUs), and emergency services using 5G technology to provide emergency services faster and more efficiently.
 
-System Overview
+
+**System Overview**
 The system includes various components such as 5G-enabled radios, sensors, cameras, and GPS systems installed in roadside units and emergency vehicles. These components will gather real-time data on road and traffic conditions, weather, and potential hazards and transmit it to a centralized control center using the 5G network, which will analyze and distribute it to emergency vehicles, traffic management systems, and first responders.
 
-Key Features
+
+**Key Features**
 One of the key features of 5G technology is its ability to provide prioritized and dedicated network access for emergency services. By utilizing this feature, emergency vehicles can communicate without interruption or delay, even in high-traffic situations or areas with poor network coverage.
 
-System Components
+
+**System Components**
 The system includes the following components:
 
 5G-enabled radios
@@ -26,7 +29,9 @@ Roadside units (RSUs)
 Centralized control center
 Medical equipment and sensors
 Augmented reality technology
-System Benefits
+
+
+**System Benefits**
 The proposed 5G-enabled emergency vehicle communication system has several benefits, including:
 
 Real-time communication and data transfer between emergency vehicles and other stakeholders
@@ -36,7 +41,9 @@ Support for a range of applications and devices, including medical equipment and
 Efficient management of emergency medical services
 Accurate and up-to-date information for emergency responders
 Life-saving treatment provided as quickly as possible
-System Functionalities
+
+
+**System Functionalities**
 The proposed 5G-enabled emergency vehicle communication system has the following functionalities:
 
 1. Identifying the fastest path to reach the incident area
@@ -50,8 +57,8 @@ In order to efficiently manage emergency medical services, a centralized databas
 
 
 
-How to Use:
+**How to Use:**
 This project report is intended for healthcare professionals, researchers, and anyone interested in the intersection of healthcare and 5G technology. The report can be accessed on Github and can be downloaded in PDF format.
 
-Contributing:
+**Contributing:**
 Contributions are welcome and encouraged. Please submit a pull request if you would like to contribute to this project.
