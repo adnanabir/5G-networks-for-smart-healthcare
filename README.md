@@ -1,8 +1,11 @@
-**Project Name: 5G Technology in Healthcare
-Introduction:**
+**Project Name: 5G Technology in Healthcare**
+
+
+
+**Introduction:**
 The fifth-generation (5G) network has brought significant advancements in the field of healthcare, revolutionizing the way healthcare is provided to patients. It offers high-speed data transfer, low latency, and improved network coverage, which have opened new avenues for healthcare providers to provide better care to patients. The conventional healthcare system requires more human intervention with healthcare devices, equipment, and patient monitoring. However, the healthcare industry is undergoing a rapid transformation from a traditional hospital and specialist-focused approach to a distributed patient-centric approach, fueled by the advancements in several technologies.
 
-This project report explores the role of 5G technology in healthcare, its key features, applications, and challenges. We also propose potential applications of 5G technology in healthcare.
+We want to explore the role of 5G technology in healthcare, its key features, applications, and challenges. We also propose a potential applications of 5G technology in healthcare.
 
 
 
