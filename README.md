@@ -4,13 +4,9 @@ The fifth-generation (5G) network has brought significant advancements in the fi
 
 This project report explores the role of 5G technology in healthcare, its key features, applications, and challenges. We also propose potential applications of 5G technology in healthcare.
 
-How to Use:
-This project report is intended for healthcare professionals, researchers, and anyone interested in the intersection of healthcare and 5G technology. The report can be accessed on Github and can be downloaded in PDF format.
 
-Contributing:
-Contributions are welcome and encouraged. Please submit a pull request if you would like to contribute to this project.
 
-5G-enabled Emergency Vehicle Communication System
+**5G-enabled Emergency Vehicle Communication System**
 This is a proposed 5G-enabled emergency vehicle communication system that allows emergency vehicles to communicate with other vehicles, traffic management systems, roadside units (RSUs), and emergency services using 5G technology to provide emergency services faster and more efficiently.
 
 System Overview
@@ -43,11 +39,19 @@ Life-saving treatment provided as quickly as possible
 System Functionalities
 The proposed 5G-enabled emergency vehicle communication system has the following functionalities:
 
-6.1. Identifying the fastest path to reach the incident area
+1. Identifying the fastest path to reach the incident area
 The system takes into account road occupancy status when calculating the fastest route to the destination. Cameras installed in nearby RSUs will periodically capture images of the road situation and send occupancy status updates to a centralized control center, which will calculate the optimal route for emergency vehicles accordingly.
 
-6.2. Communicating information on the victim's condition
+2. Communicating information on the victim's condition
 Real-time communication of a victim's condition using a 5G network in an emergency vehicle can greatly enhance the efficiency and quality of emergency medical services. Medical sensors will be attached to the victim's body to monitor vital signs such as heart rate, blood pressure, and oxygen saturation. These sensors can transmit data wirelessly to the emergency vehicle's system using the 5G network. Cameras will be installed in the emergency vehicle to provide live video streaming of the patient's condition. A centralized control center will receive data from the medical sensors and video streaming in real-time. Augmented reality technology will be used to provide a visual representation of the patient's condition and the surrounding environment.
 
-6.3. Determining the destination with available resources
+3. Determining the destination with available resources
 In order to efficiently manage emergency medical services, a centralized database will be created for every hospital, which will include the current available resources and status regarding the number of patients being served at that moment. This database will be updated in real-time to ensure accurate and up-to-date information. In order to identify the closest hospital with the required resources based on the victim's condition, the emergency vehicle will communicate with this centralized database.
+
+
+
+How to Use:
+This project report is intended for healthcare professionals, researchers, and anyone interested in the intersection of healthcare and 5G technology. The report can be accessed on Github and can be downloaded in PDF format.
+
+Contributing:
+Contributions are welcome and encouraged. Please submit a pull request if you would like to contribute to this project.
