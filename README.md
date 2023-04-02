@@ -21,26 +21,26 @@ One of the key features of 5G technology is its ability to provide prioritized a
 **System Components**
 The system includes the following components:
 
-5G-enabled radios
-Sensors
-Cameras
-GPS systems
-Roadside units (RSUs)
-Centralized control center
-Medical equipment and sensors
-Augmented reality technology
+5G-enabled radios,
+Sensors,
+Cameras,
+GPS systems,
+Roadside units (RSUs),
+Centralized control center,
+Medical equipment and sensors,
+Augmented reality technology.
 
 
 **System Benefits**
 The proposed 5G-enabled emergency vehicle communication system has several benefits, including:
 
-Real-time communication and data transfer between emergency vehicles and other stakeholders
-Prioritized and dedicated network access for emergency services
-Seamless communication and real-time data transfer of 5G network
-Support for a range of applications and devices, including medical equipment and sensors, video streaming, and voice communication
-Efficient management of emergency medical services
-Accurate and up-to-date information for emergency responders
-Life-saving treatment provided as quickly as possible
+Real-time communication and data transfer between emergency vehicles and other stakeholders,
+Prioritized and dedicated network access for emergency services,
+Seamless communication and real-time data transfer of 5G network,
+Support for a range of applications and devices, including medical equipment and sensors, video streaming, and voice communication,
+Efficient management of emergency medical services,
+Accurate and up-to-date information for emergency responders,
+Life-saving treatment provided as quickly as possible.
 
 
 **System Functionalities**
