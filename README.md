@@ -9,6 +9,7 @@ The fifth-generation (5G) network has brought significant advancements in the fi
 
 **5G-enabled Emergency Vehicle Communication System**
 This is a proposed 5G-enabled emergency vehicle communication system that allows emergency vehicles to communicate with other vehicles, traffic management systems, roadside units (RSUs), and emergency services using 5G technology to provide emergency services faster and more efficiently.
+![Figure_Fastest route selection scenario](https://user-images.githubusercontent.com/124525225/229621163-31b126f8-e4a7-4859-b8b6-93d4a9ef6223.jpg)
 
 
 **System Overview**
