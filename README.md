@@ -9,7 +9,7 @@ The fifth-generation (5G) network has brought significant advancements in the fi
 
 **5G-enabled Emergency Vehicle Communication System**
 This is a proposed 5G-enabled emergency vehicle communication system that allows emergency vehicles to communicate with other vehicles, traffic management systems, roadside units (RSUs), and emergency services using 5G technology to provide emergency services faster and more efficiently.
-![Figure_Fastest route selection scenario](https://user-images.githubusercontent.com/124525225/229621163-31b126f8-e4a7-4859-b8b6-93d4a9ef6223.jpg)
+
 
 
 **System Overview**
@@ -18,6 +18,9 @@ The system includes various components such as 5G-enabled radios, sensors, camer
 
 **Key Features**
 One of the key features of 5G technology is its ability to provide prioritized and dedicated network access for emergency services. By utilizing this feature, emergency vehicles can communicate without interruption or delay, even in high-traffic situations or areas with poor network coverage.
+
+
+![Figure_Using dedicated channel for communication during emergency](https://user-images.githubusercontent.com/124525225/229621531-26fda01a-0f9b-49f4-a623-5d28dcdc69fc.jpg)
 
 
 **System Components**
@@ -50,6 +53,11 @@ The proposed 5G-enabled emergency vehicle communication system has the following
 
 1. Identifying the fastest path to reach the incident area
 The system takes into account road occupancy status when calculating the fastest route to the destination. Cameras installed in nearby RSUs will periodically capture images of the road situation and send occupancy status updates to a centralized control center, which will calculate the optimal route for emergency vehicles accordingly.
+
+
+![Figure_Fastest route selection scenario](https://user-images.githubusercontent.com/124525225/229621606-2dcfb2bb-6858-4d27-a89b-d9672f2410fb.jpg)
+
+
 
 2. Communicating information on the victim's condition
 Real-time communication of a victim's condition using a 5G network in an emergency vehicle can greatly enhance the efficiency and quality of emergency medical services. Medical sensors will be attached to the victim's body to monitor vital signs such as heart rate, blood pressure, and oxygen saturation. These sensors can transmit data wirelessly to the emergency vehicle's system using the 5G network. Cameras will be installed in the emergency vehicle to provide live video streaming of the patient's condition. A centralized control center will receive data from the medical sensors and video streaming in real-time. Augmented reality technology will be used to provide a visual representation of the patient's condition and the surrounding environment.
