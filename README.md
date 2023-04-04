@@ -75,10 +75,11 @@ Contributions are welcome and encouraged. Please submit a pull request if you wo
 
 
 **Project members:**
+
 S M Abu Adnan Abir
 
 Ikshit Jadav
 
-Course: 5G Networks - Advanced Topics in Communications Systems (SYSC5804)
+**Course: 5G Networks - Advanced Topics in Communications Systems (SYSC5804)**
 
-University: Carleton University
+**University: Carleton University**
