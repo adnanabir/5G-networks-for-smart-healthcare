@@ -68,7 +68,7 @@ In order to efficiently manage emergency medical services, a centralized databas
 
 
 **How to Use:**
-This project report is intended for healthcare professionals, researchers, and anyone interested in the intersection of healthcare and 5G technology. The report can be accessed on Github and can be downloaded in PDF format.
+This project report is intended for healthcare professionals, researchers, and anyone interested in the intersection of healthcare and 5G technology. 
 
 **Contributing:**
 Contributions are welcome and encouraged. Please submit a pull request if you would like to contribute to this project.
@@ -76,6 +76,7 @@ Contributions are welcome and encouraged. Please submit a pull request if you wo
 
 **Project members:**
 S M Abu Adnan Abir
+
 Ikshit Jadav
 
 Course: 5G Networks - Advanced Topics in Communications Systems (SYSC5804)
