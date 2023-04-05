@@ -78,7 +78,7 @@ Contributions are welcome and encouraged. Please submit a pull request if you wo
 
 S M Abu Adnan Abir
 
-Ikshit Jadav
+Ikshit Jadav (https://github.com/Ikshit-Carleton)
 
 **Course: 5G Networks - Advanced Topics in Communications Systems (SYSC5804)**
 
